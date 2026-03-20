@@ -10,10 +10,21 @@ AI-powered early detection of canine health conditions using Machine Learning.
   - Population Baseline Comparisons against average healthy dogs
   - Local SHAP Feature Importance visualisations showing how each factor influenced the prediction.
 
-## Dashboard Preview
+## Dashboard & Visualizations
 
+### Main Interface
 ![Canine Health Dashboard](app/assets/dashboard.png)
-*(Note: Please upload your screenshot as `dashboard.png` into the `app/assets/` folder to display it here!)*
+
+### Health Score Gauge
+![Health Score](app/assets/health_gauge.png)
+
+### Population Comparison
+![Population Comparison](app/assets/population_comparison.png)
+
+### Feature Importance
+![Feature Importance](app/assets/feature_importance.png)
+
+*(Note: Please ensure your screenshots are saved with these exact filenames in the `app/assets/` folder and pushed to GitHub!)*
 
 ## Installation & Setup
 
