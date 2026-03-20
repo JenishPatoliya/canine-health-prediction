@@ -10,6 +10,16 @@ AI-powered early detection of canine health conditions using Machine Learning.
   - Population Baseline Comparisons against average healthy dogs
   - Local SHAP Feature Importance visualisations showing how each factor influenced the prediction.
 
+## Application & Visualizations
+
+### SHAP Analysis & ROC Curves
+![SHAP Summary Plot](app/assets/shap_summary.png)
+
+![ROC Curves](app/assets/roc_curves.png)
+
+### Model Confusion Matrix
+![Confusion Matrix](app/assets/confusion_matrix.png)
+
 ## Installation & Setup
 
 1. **Clone the repository:**
